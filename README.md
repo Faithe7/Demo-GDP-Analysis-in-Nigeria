@@ -31,11 +31,19 @@ The Gross Domestic Product (GDP) of a country is a critical indicator of its eco
 
 ## Data Model
 The data was first normalized in Excel before being transformed in Power Query. The raw data was split into nominal and real GDP and the Indirect tax was separated. A date table was also created in Power Query. 
+
 ![Data Model](https://github.com/Faithe7/Demo-GDP-Analysis-in-Nigeria/blob/main/images/gdp_portfolio_data_model.PNG)
 
 ### Dashboard Insights
 ### Overview
+- The current quarter GDP is N18.29 Trillion follwoing a 0.04% increase against the previous to the previous quarter.
+![Overview](https://github.com/Faithe7/Demo-GDP-Analysis-in-Nigeria/blob/main/images/gdp_portfolio_main.png)
+
 ### GDP by Sector Analysis
+![GDP by Sector](https://github.com/Faithe7/Demo-GDP-Analysis-in-Nigeria/blob/main/images/gdp_portfolio_by_sector.png)
 
 ## Recommendations
+
+## Download
+<a href = "https://github.com/Faithe7/Demo-GDP-Analysis-in-Nigeria/raw/refs/heads/main/images/Faith_Eliot_GDP_Project.pbix"> Download the Power BI file </a>
 
