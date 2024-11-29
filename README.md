@@ -42,8 +42,6 @@ The data was first normalized in Excel before being transformed in Power Query. 
 ### GDP by Sector Analysis
 ![GDP by Sector](https://github.com/Faithe7/Demo-GDP-Analysis-in-Nigeria/blob/main/images/gdp_portfolio_by_sector.png)
 
-## Recommendations
-
 ## Download
 <a href = "https://github.com/Faithe7/Demo-GDP-Analysis-in-Nigeria/raw/refs/heads/main/images/Faith_Eliot_GDP_Project.pbix"> Download the Power BI file </a>
 
